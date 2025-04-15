@@ -51,6 +51,7 @@ DOMAIN-SUFFIX,tobaccopipes.com
 DOMAIN-SUFFIX,kansaco.net
 DOMAIN-SUFFIX,arubanetworks.com
 DOMAIN-SUFFIX,reddit.com
+DOMAIN-SUFFIX,temu.com
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
