@@ -54,7 +54,23 @@ DOMAIN-SUFFIX,reddit.com
 DOMAIN-SUFFIX,temu.com
 DOMAIN-SUFFIX,xdaforums.com
 DOMAIN-SUFFIX,mixkit.co
-
+DOMAIN-SUFFIX,akamai.com
+DOMAIN-SUFFIX,akamaitechnologies.com
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,api.hcaptcha.com 
+DOMAIN-SUFFIX,damassets.net
+DOMAIN-SUFFIX,google-analytics.com
+DOMAIN-SUFFIX,googletagmanager.com
+DOMAIN-SUFFIX,launchdarkly.com
+DOMAIN-SUFFIX,library.io
+DOMAIN-SUFFIX,mcmaster.com
+DOMAIN-SUFFIX,pndsn.com
+DOMAIN-SUFFIX,pubnub.com
+DOMAIN-SUFFIX,requirejs.org
+DOMAIN-SUFFIX,tracepartsonline.net
+DOMAIN-SUFFIX,autodesk.com
+DOMAIN-SUFFIX,autodesk360.com
+DOMAIN-SUFFIX,cloudfront.net 
 
 IP-CIDR,8.8.8.8/32,no-resolve
 IP-CIDR,8.8.4.4/32,no-resolve
