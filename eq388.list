@@ -3,7 +3,7 @@ IP-CIDR,142.171.133.131/32,no-resolve
 IP-CIDR,103.115.43.2/32,no-resolve
 IP-CIDR,104.236.69.0/24,no-resolve
 
-# 国外DNS
+# 皇冠网址
 DOMAIN-SUFFIX,eq388.com
 DOMAIN-SUFFIX,crw066.com
 DOMAIN-SUFFIX,crw077.com
